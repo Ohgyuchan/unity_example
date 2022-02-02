@@ -1,4 +1,0 @@
-#Wed Feb 02 04:19:21 KST 2022
-base.0=/Users/terman/dev/unity_bird_game/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
